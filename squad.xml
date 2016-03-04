@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
+<squad nick="401st">
+	<name>401st Flieger Division</name>
+	<email></email>
+	<web></web>
+	<picture>Logo.paa</picture>
+	<title>Niemand wird zurück gelassen!</title>
+	<member id="76561198072334011" nick="Cpt. Lux">
+		<name>Cpt. Lux</name>
+		<email></email>
+		<icq></icq>
+		<remark>The Undying</remark>
+	</member>
+	<member id="76561198058221799" nick="LT. Raine">
+		<name>LT. Raine</name>
+		<email></email>
+		<icq></icq>
+		<remark>Fear Me</remark>
+	</member>
+</squad>
